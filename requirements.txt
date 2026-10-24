@@ -1,5 +1,0 @@
-Flask
-supabase
-requests
-gunicorn
-duckduckgo-search
