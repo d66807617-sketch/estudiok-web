@@ -3,3 +3,4 @@ supabase==2.0.0
 requests==2.31.0
 gunicorn==21.2.0
 duckduckgo-search
+httpcore>=1.0.8
