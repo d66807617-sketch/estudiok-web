@@ -1,6 +1,0 @@
-﻿Flask
-flask-cors
-supabase
-requests
-gunicorn
-duckduckgo-search
